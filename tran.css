@@ -1,6 +1,7 @@
 body {background-color:#0CD4CB
 }
 h1 {font-size:45px;
+   font-family:'Lucida Console', Monaco, monospace;
 }
 p {max-width:85%;
   font-size:;
