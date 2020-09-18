@@ -6,10 +6,10 @@ h1 {font-size:45px;
    margin-bottom:-1%;
    text-align:center;
    background-color:white;
-   margin-right:15%;
+   max-width:80%;
    border:solid;
 }
-p {max-width:85%;
+p {max-width:80%;
   font-size:;
   font-family:'Lucida Console', Monaco, monospace;
   border: solid;
@@ -18,5 +18,4 @@ p {max-width:85%;
 h2 {font-size:25px;
    font-family:'Lucida Console', Monaco, monospace;
    background-color:white;
-   width
 }
