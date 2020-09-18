@@ -3,10 +3,11 @@ body {background-color:#0CD4CB
 h1 {font-size:45px;
    font-family:'Lucida Console', Monaco, monospace;
    margin-top:-5px;
-   margin-bottom:-2%;
+   margin-bottom:-1%;
    text-align:center;
    background-color:white;
    margin-right:15%;
+   border:solid;
 }
 p {max-width:85%;
   font-size:;
@@ -17,4 +18,5 @@ p {max-width:85%;
 h2 {font-size:25px;
    font-family:'Lucida Console', Monaco, monospace;
    background-color:white;
+   width
 }
