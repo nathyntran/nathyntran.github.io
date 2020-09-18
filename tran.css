@@ -4,6 +4,8 @@ h1 {font-size:45px;
    font-family:'Lucida Console', Monaco, monospace;
    margin-top:-5px;
    margin-bottom:-2%;
+   text-align:center;
+   background-color:white;
 }
 p {max-width:85%;
   font-size:;
