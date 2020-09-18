@@ -6,3 +6,5 @@ p {max-width:85%;
   font-size:;
   font-family:'Lucida Console', Monaco, monospace;
   border: solid;
+  background-color:white;
+}
