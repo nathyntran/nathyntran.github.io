@@ -2,5 +2,7 @@ body {background-color:#0CD4CB
 }
 h1 {font-size:45px;
 }
-p {max-width:85;
-  font-size:
+p {max-width:85%;
+  font-size:;
+  font-family:'Lucida Console', Monaco, monospace;
+  border: solid;
