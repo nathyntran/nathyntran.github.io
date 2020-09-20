@@ -19,5 +19,9 @@ h2 {font-size:25px;
    border:solid;
    text-align:center;
    max-width:80%;
-   
+}
+#gradphoto {width:17%;
+           float:right;
+           
+           
 }
