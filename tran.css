@@ -1,4 +1,5 @@
-body {background-color:#0CD4CB
+body {background-image: url('Background.jpg');
+     background-size:100%;
 }
 h1 {font-size:45px;
    font-family:'Lucida Console', Monaco, monospace;
